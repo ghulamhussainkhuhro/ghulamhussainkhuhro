@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Ghulam Hussain </h1>
 <h3 align="center">A passionate Data Analyst from Pakistan.</h3>
-<img alt="Coding" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" style="max-width: 100%; display: inline-block; margin: 0 auto;" data-target="animated-image.originalImage">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghulamhussainkhuhro&label=Profile%20views&color=0e75b6&style=flat" alt="ghulamhussainkhuhro" /> </p>
@@ -17,8 +16,8 @@
 
 - 📝 I  write articles on [https://medium.com/@ghulamhussainkhuhro2.o](https://medium.com/@ghulamhussainkhuhro2.o)
 
-- 📝 I'm Beta Student Ambassador at Microsoft Learn [https://mvp.microsoft.com/en-US/studentambassadors/profile/132dd507-daf7-4aeb-9727-c75dca8fcfa4](https://mvp.microsoft.com/en-US/studentambassadors/profile/132dd507-daf7-4aeb-9727-c75dca8fcfa4)
-
+- 📝 I'm Beta Student Ambassador at Microsoft Learn [https://rb.gy/udy7u1](https://rb.gy/udy7u1)
+- 
 - 💬 Ask me about **Python, SQL, MS Excel, Google Sheets, Data Analytics**
 
 - 📫 How to reach me **ghulamhussainkhuhro2.o@gmal.com**
@@ -27,11 +26,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ghussaink001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghussaink001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ghulam hussain khuhro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghulam hussain khuhro" height="30" width="40" /></a>
-<a href="https://fb.com/ghulam hussain khuhro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghulam hussain khuhro" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ghulamhussainkhuhro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghulam hussain khuhro" height="30" width="40" /></a>
 <a href="https://instagram.com/ghulamhussainkhuhro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghulamhussainkhuhro" height="30" width="40" /></a>
-<a href="https://medium.com/@ghulamhussainkhuhro2.o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ghulamhussainkhuhro2.o" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ghulamhussainkhuhro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ghulam hussain khuhro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
