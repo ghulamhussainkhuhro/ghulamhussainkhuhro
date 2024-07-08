@@ -17,10 +17,12 @@
 - 📝 I  write articles on [https://medium.com/@ghulamhussainkhuhro2.o](https://medium.com/@ghulamhussainkhuhro2.o)
 
 - 📝 I'm Beta Student Ambassador at Microsoft Learn [https://rb.gy/udy7u1](https://rb.gy/udy7u1)
-- 
+  
 - 💬 Ask me about **Python, SQL, MS Excel, Google Sheets, Data Analytics**
 
 - 📫 How to reach me **ghulamhussainkhuhro2.o@gmal.com**
+
+- 📫 Let's connect on LinkedIn [https://www.linkedin.com/in/ghulamhussainkhuhro/](https://www.linkedin.com/in/ghulamhussainkhuhro/)
 
 - ⚡ Fun fact **Unraveling the mysteries of code and the dance of algorithms, I'm on a quest to turn caffeine into code and dreams into digital reality. As an AI and tech enthusiast, I believe in the magic of ones and zeros, turning chaos into elegant solutions. Join me on this byte-sized adventure, where every bug is a puzzle, and every line of code is a stroke of genius. 🚀✨ #CodeExplorer #TechDreamer #AIAdventurer**
 
