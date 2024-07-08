@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-<h1 align="center">Hi 👋, I'm Ghulam Hussain Khuhro</h1>
-<h3 align="center">A passionate frontend developer from Pakistan.</h3>
+<h1 align="center">Hi 👋, I'm Ghulam Hussain </h1>
+<h3 align="center">A passionate Data Analyst from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghulamhussainkhuhro&label=Profile%20views&color=0e75b6&style=flat" alt="ghulamhussainkhuhro" /> </p>
@@ -10,13 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/ghussaink001" target="blank"><img src="https://img.shields.io/twitter/follow/ghussaink001?logo=twitter&style=for-the-badge" alt="ghussaink001" /></a> </p>
 
-- 🌱 I’m currently learning **Front-end Web development ,Java, and Introduction to Software Engineering.**
+- 🌱 I’m currently learning **Python, SQL, Power BI, Tableau.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ghulamhussainkhuhro](https://github.com/ghulamhussainkhuhro)
 
-- 📝 I regularly write articles on [https://medium.com/@ghulamhussainkhuhro2.o](https://medium.com/@ghulamhussainkhuhro2.o)
+- 📝 I  write articles on [https://medium.com/@ghulamhussainkhuhro2.o](https://medium.com/@ghulamhussainkhuhro2.o)
 
-- 💬 Ask me about **C++ , Java, MS Word , MS PowerPoint**
+- 📝 I'm Beta Student Ambassador at Microsoft Learn [https://mvp.microsoft.com/en-US/studentambassadors/profile/132dd507-daf7-4aeb-9727-c75dca8fcfa4](https://mvp.microsoft.com/en-US/studentambassadors/profile/132dd507-daf7-4aeb-9727-c75dca8fcfa4)
+
+- 💬 Ask me about **Python, SQL, MS Excel, Google Sheets, Data Analytics**
 
 - 📫 How to reach me **ghulamhussainkhuhro2.o@gmal.com**
 
