@@ -10,7 +10,6 @@
 
 ## 🌐 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)](https://github.com/ghulamhussainkhuhro)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ghulamhussainkhuhro)
 
 - 🌱 I’m currently learning **Python, SQL, Power BI, Tableau.**
