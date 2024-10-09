@@ -8,7 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghulamhussainkhuhro" alt="ghulamhussainkhuhro" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ghussaink001" target="blank"><img src="https://img.shields.io/twitter/follow/ghussaink001?logo=twitter&style=for-the-badge" alt="ghussaink001" /></a> </p>
+## 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)](https://github.com/ghulamhussainkhuhro)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ghulamhussainkhuhro)
 
 - 🌱 I’m currently learning **Python, SQL, Power BI, Tableau.**
 
