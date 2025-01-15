@@ -20,7 +20,7 @@
 
 - 📝 I'm Beta Student Ambassador at Microsoft Learn [https://rb.gy/udy7u1](https://rb.gy/udy7u1)
   
-- 💬 Ask me about **Python, SQL, MS Excel, Google Sheets, Data Analytics**
+- 💬 Ask me about **Python its libraries, Machine Learning, SQL, MS Excel, Google Sheets, Data Analytics, Power BI,**
 
 - 📫 How to reach me **ghulamhussainkhuhro2.o@gmal.com**
 
