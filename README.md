@@ -125,15 +125,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghulamhussainkhuhro&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghulamhussainkhuhro&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamhussainkhuhro&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamhussainkhuhro&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=ghulamhussainkhuhro&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghulamhussainkhuhro&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -151,6 +151,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ghulamhussainkhuhro/ghulamhussainkhuhro/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
+
 
 
 ---
