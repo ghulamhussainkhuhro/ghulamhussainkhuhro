@@ -1,156 +1,139 @@
-<!-- Banner -->
+<!-- Futuristic Banner -->
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Ghulam Hussain Khuhro</h1>
-<h3 align="center">🚀 Data Scientist | AI Explorer | Future Architect of Intelligent Systems 🌍</h3>
+<h3 align="center">🚀 Data Scientist | AI Enthusiast | Building a Smarter Future</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Fueling+innovation+with+data+%26+AI;Transforming+raw+data+into+actionable+insights;Empowering+future+decisions+with+intelligence+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Transforming+Data+Into+Decisions;Crafting+Intelligent+AI+Solutions;Let's+Shape+Tomorrow+Together!+🚀" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghulamhussainkhuhro&label=Profile%20Views&color=00FFFF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghulamhussainkhuhro&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <a href="https://linkedin.com/in/ghulamhussainkhuhro"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ghulamhussainkhuhro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://ghulamhussainkhuhro.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF6C00?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+  <a href="https://medium.com/@ghulamhussainkhuhro2.o"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghulamhussainkhuhro)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghulamhussainkhuhro)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://ghulamhussainkhuhro.github.io/)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ghulamhussainkhuhro2.o)
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Final-year Software Engineering Student at **MUET Jamshoro** | GPA: **3.79/4.0**
-- 📊 Passionate about **Data Science**, **AI/ML**, **Analytics**, and **Business Intelligence**
-- 💻 **Data Science & AI Enthusiast** | **Microsoft Learn Student Ambassador**
-- 🌟 Focused on solving real-world problems with AI-driven solutions
-- ✉️ Reach me: **ghulamhussainkhuhro2.o@gmail.com**
-- 🎯 Vision: **To empower industries through data-driven innovation**
+- 🎓 **Bachelor’s in Software Engineering** @ **MUET Jamshoro** (GPA: 3.79)
+- 🌱 Currently learning **Python | SQL | Power BI | Azure AI | ML Ops**
+- 💻 **Data Science Intern** | **Microsoft Learn Student Ambassador (Beta)**
+- 🎯 Focused on **AI**, **Analytics**, and **Data Engineering**
+- 📫 Reach out at **ghulamhussainkhuhro2.o@gmail.com**
 
 ---
 
-## 🏢 Experience
+## 🏢 Professional Experience
 
-**Bytewise Limited** — *Data Engineer Fellow* (Remote)  
-*07.2024 – 09.2024*
-- 🌟 Selected among 2300+ applicants for a prestigious tech fellowship
-- 🔥 Built scalable ETL pipelines using Python and MySQL
-- 📈 Automated live financial data processing and visualization
+### 🚀 Bytewise Limited | Data Engineer Fellow
+*Jul 2024 – Sep 2024*
+- Built ETL pipelines with **Python & MySQL**
+- Scraped & automated banking data visualizations
 
-**YoungDev Interns** — *Data Analyst Intern* (Remote)
-- 📊 Led EDA projects on real-world data
-- 📉 Designed Power BI KPI dashboards for business decision support
-- 🤖 Created ML models (Logistic Regression, Random Forest) for predictive insights
+### 🛠️ YoungDev Interns | Data Analyst Intern
+- Performed EDA, KPI Dashboards with **Power BI**
+- Developed Machine Learning models (Logistic Regression, Random Forest)
 
-**Microsoft Learn Student Ambassador (Beta)**
-- 👨‍🏫 Delivered workshops on **Azure AI**, **Data Analytics**, and **ML Fundamentals**
-- 🧠 Mentored aspiring technologists on building cloud-native AI applications
+### 🌐 Microsoft Learn Program | Student Ambassador (Beta)
+- Hosted workshops on **Azure AI** and **Data Analytics**
+- Mentored students on **ML** and **Visualization**
 
 ---
 
 ## 🎓 Education
 
-- **Bachelor’s in Software Engineering**, MUET Jamshoro *(2023-2027)*  
-  🏆 Merit-Based & Fully Funded Need-Based Scholarship | GPA: **3.79**
-
-- **Intermediate (Pre-Engineering)**, GDC Larkana *(2021-2023)* — 88.71%
-
----
-
-## 🛠️ Tech Toolbox
-
-**Languages**: Python | SQL | C++ | Java | JavaScript | HTML5 | CSS3  
-**Libraries/Frameworks**: Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | TensorFlow (basic) | Keras (basic)  
-**Databases & Tools**: MySQL | Power BI | Tableau | Excel | Jupyter Notebook | Git | GitHub  
-**Cloud & APIs**: Azure AI | Web Scraping (BeautifulSoup) | API Integration  
-**Others**: Machine Learning | Data Engineering | Data Storytelling | Agile & Scrum (Basics)
+- **Bachelor’s in Software Engineering** — *MUET Jamshoro* (2023–2027)  
+  🏆 *Merit-Based + Fully Funded Scholarship* | GPA: 3.79
+- **Intermediate (Pre-Engineering)** — *GDC Larkana* (2021–2023) | 88.71%
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills
+
+- **Languages**: Python | SQL | C++ | Java | HTML/CSS/JS
+- **Libraries/Frameworks**: Pandas | NumPy | Scikit-learn | TensorFlow (Basic) | Keras (Basic)
+- **Analytics/BI**: Power BI | Tableau | Excel | MySQL
+- **Other Tools**: Git | Jupyter | Azure AI | Web Scraping (BeautifulSoup)
+
+---
+
+## 🧠 Soft Skills
+- Data Storytelling | Problem Solving | Critical Thinking
+- Team Collaboration | Initiative | Communication | Detail Orientation
+
+---
+
+## 🚀 Projects
 
 - **Customer Churn Prediction**  
-  ➔ Achieved ~85% accuracy using Logistic Regression & Random Forest on customer datasets.
+  → Achieved ~85% accuracy using Logistic Regression & Random Forest.
 
-- **ETL Pipeline for Financial Data**  
-  ➔ Scraped real-time banking data → Cleaned with Pandas → Stored in MySQL → Visualized KPIs.
+- **ETL Pipeline for Banking Data**  
+  → Scraped ➔ Cleaned ➔ Stored ➔ Visualized with Python + MySQL.
 
-- **Healthcare Data Warehouse (Course Project)**  
-  ➔ Integrated multi-source data into a warehouse; complex business intelligence queries.
+- **Healthcare Data Warehouse (University Project)**  
+  → Integrated multi-source data into MySQL warehouse.
 
-- **More Projects** ➔ [View my GitHub Repositories](https://github.com/ghulamhussainkhuhro)
+🔗 [More Projects on GitHub »](https://github.com/ghulamhussainkhuhro)
 
 ---
 
 ## 📚 Certifications
 
-- **Google Data Analytics Professional Certificate** *(Google, 2024)*
-- **Data Analytics & Business Intelligence** *(DigiSkills.pk, 2024)*
-- **Machine Learning Specialization** *(Andrew Ng on Coursera, Ongoing)*
-- **Hands-On Essentials: Data Warehousing** *(Snowflake, 2024)*
-- **Data Science Micro-Certifications** *(DataCamp, 10+)*
-
----
-
-## 🧠 Soft Skills
-
-- Critical Thinking | Analytical Mindset | Leadership | Team Collaboration | Problem-Solving  
-- Data Storytelling | Public Speaking | Self-Driven | Innovative | High Attention to Detail
+- 🏅 Google Data Analytics — *Google Career Certificates*
+- 🏅 Data Analytics & Business Intelligence — *DigiSkills.pk*
+- 🏅 Machine Learning Specialization — *Andrew Ng (Coursera)* *(Ongoing)*
+- 🏅 Hands-On Data Warehousing — *Snowflake*
+- 🏅 10+ Micro-Certifications — *DataCamp*
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghulamhussainkhuhro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghulamhussainkhuhro&theme=tokyonight&show_icons=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghulamhussainkhuhro&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamhussainkhuhro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghulamhussainkhuhro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamhussainkhuhro&theme=tokyonight&layout=compact&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-## 📊 GitHub Activity Graph
+## 🐍 GitHub Contribution Snake (Working Version)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghulamhussainkhuhro&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github.com/ghulamhussainkhuhro/ghulamhussainkhuhro/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
 
-## 🏆 GitHub Contribution Snake
+## ✨ Fun Facts
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ghulamhussainkhuhro/ghulamhussainkhuhro/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
-## ✨ Interests Outside Tech
-
-- 📚 Lifelong Reader (*currently diving into "Atomic Habits"*)
-- ♟️ Chess Lover (ELO 1021) | Strategic Thinker
-- 🏛️ History Buff | Business Enthusiast
-- 💡 Building Practical AI Projects to Shape Tomorrow
+- 🎯 *Currently reading*: *Atomic Habits* by James Clear
+- ♟️ *Chess Rating*: 1021 (Chess.com)
+- 🏛️ *History Lover*: Reading *A Short History of the World* by Christopher Lascelles
+- 📈 *Entrepreneurial Mindset*: Inspired by *Rich Dad Poor Dad*
 
 ---
 
 ## 📞 Contact
 
-- 📧 **Email**: ghulamhussainkhuhro2.o@gmail.com
-- 🌐 **LinkedIn**: [linkedin.com/in/ghulamhussainkhuhro](https://linkedin.com/in/ghulamhussainkhuhro)
+<p align="center">
+  <a href="mailto:ghulamhussainkhuhro2.o@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ghulamhussainkhuhro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
----
-
-<p align="center"><b>🚀 Let’s collaborate, innovate, and build the AI-powered future! 🌟</b></p>
+<p align="center">🚀 Let's innovate and make a real-world impact together! 🚀</p>
