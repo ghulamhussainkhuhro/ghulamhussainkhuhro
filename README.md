@@ -145,11 +145,13 @@
 
 ---
 
+
 ## 🏆 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ghulamhussainkhuhro/ghulamhussainkhuhro/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://github.com/ghulamhussainkhuhro/ghulamhussainkhuhro/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+
 
 
 
