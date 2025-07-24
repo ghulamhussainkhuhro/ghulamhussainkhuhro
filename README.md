@@ -145,18 +145,6 @@
 
 ---
 
-
-## 🏆 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/ghulamhussainkhuhro/ghulamhussainkhuhro/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-
-
-
----
-
 ## 📞 Contact Me
 - 📧 Email: **ghulamhussainkhuhro2.o@gmail.com**
 - 🌍 LinkedIn: [linkedin.com/in/ghulamhussainkhuhro](https://linkedin.com/in/ghulamhussainkhuhro)
