@@ -5,10 +5,11 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ghulamhussainkhuhro/" target="_blank">
+  <a href="https://www.linkedin.com/in/ghulamhussainkhuhro/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Message%20Me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Message Badge"/>
   </a>
 </p>
+
 
 
 <p align="center">
