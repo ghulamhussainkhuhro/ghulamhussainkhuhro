@@ -3,6 +3,14 @@
 <h1 align="center">Hi 👋 I'm Ghulam Hussain Khuhro</h1>
 <h3 align="center">AI Engineer | LLM Developer | LangChain Agent Builder | Azure OpenAI Specialist</h3>
 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ghulamhussainkhuhro/" target="_blank">
+    <img src="https://img.shields.io/badge/Message%20Me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Message Badge"/>
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ghulamhussainkhuhro&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
